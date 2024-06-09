@@ -4,9 +4,9 @@ This repository contains MATLAB code for simulating and analyzing the performanc
 
 ## Code Description
 
-- `matched_filter_detector_simulation_1.m`: MATLAB script for simulating the matched filter detector using Monte Carlo simulations. This script defines the parameters for the simulation, including the number of Monte Carlo iterations, the range of the probability of false alarm, and the SNR values. It then performs the simulations, calculates the theoretical and simulated probabilities of detection, and generates plots to visualize the results.
+- `MFD.m`: MATLAB script for simulating the matched filter detector using Monte Carlo simulations. This script defines the parameters for the simulation, including the number of Monte Carlo iterations, the range of the probability of false alarm, and the SNR values. It then performs the simulations, calculates the theoretical and simulated probabilities of detection, and generates plots to visualize the results.
 
-- `matched_filter_detector_simulation_2.m`: Similar to the first script, this MATLAB script simulates the matched filter detector using Monte Carlo simulations. It defines different parameters for the simulation, including a different range for the probability of false alarm and SNR values. The script performs simulations, calculates probabilities of detection, and generates plots for comparison.
+- `matched_updated.m`: Similar to the first script, this MATLAB script simulates the matched filter detector using Monte Carlo simulations. It defines different parameters for the simulation, including a different range for the probability of false alarm and SNR values. The script performs simulations, calculates probabilities of detection, and generates plots for comparison.
 
 ## Usage
 
