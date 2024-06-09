@@ -13,4 +13,4 @@ This repository contains MATLAB code for simulating and analyzing the performanc
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/matched-filter-detector-simulation.git
+git clone https://github.com/SaiKiranNandipati/-Spectrum-sensing-using-Matched-filter--using-MATLAB.git
